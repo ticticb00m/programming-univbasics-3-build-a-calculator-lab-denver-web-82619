@@ -15,9 +15,10 @@ num1*num2
 end
 
 def modulo(num1, num2)
+num1/num2 =num3
 
 end
 
 def square_root(num)
-
+Math.sqer(num)
 end
